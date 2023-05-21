@@ -1,44 +1,30 @@
-<p align="center">
-    <h1 align="center"> IpeeInfo </h1>
+<h1 align="center">
+    <h1 align="center"> ▅ ▆ IpeeInfo ▆ ▅ </h1>
     <p align="center"><b>Powerful Ip Info Script made in Python with both command-line argument or in-app input</b></p>
-</p>
+    <p align="left">ɪᴘᴇᴇɪɴꜰᴏ ɪꜱ ᴀ ᴛᴏᴘ-ᴏꜰ-ᴛʜᴇ-ʟɪɴᴇ  ɪᴘ 
+    ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ       ᴛᴏᴏʟ ᴛʜᴀᴛ ʙᴏᴀꜱᴛꜱ ᴀ ᴡɪᴅᴇ ʀᴀɴɢᴇ  ᴏꜰ 
+    ꜰᴇᴀᴛᴜʀᴇꜱ     ᴛᴏ          ʜᴇʟᴘ                   ʏᴏᴜ
+    ɢᴀɪɴ ɪɴꜱɪɢʜᴛ ɪɴᴛᴏ ᴀɴʏ ɪᴘ ᴀᴅᴅʀᴇꜱꜱ.  ᴡʜᴇᴛʜᴇʀ   ʏᴏᴜ'ʀᴇ
+    ʟᴏᴏᴋɪɴɢ ꜰᴏʀ ᴛʜᴇ  ɢᴇᴏʟᴏᴄᴀᴛɪᴏɴ ᴏꜰ ᴀ  ꜱᴘᴇᴄɪꜰɪᴄ ɪᴘ, ɪᴛꜱ
+    ʟᴀᴛɪᴛᴜᴅᴇ   ᴀɴᴅ ʟᴏɴɢɪᴛᴜᴅᴇ   ᴄᴏᴏʀᴅɪɴᴀᴛᴇꜱ, ᴏʀ ᴛʜᴇ ᴄɪᴛʏ
+    ɪᴛ'ꜱ ʙᴀꜱᴇᴅ ɪɴ, ɪᴘᴇᴇɪɴꜰᴏ ʜᴀꜱ ɢᴏᴛ ʏᴏᴜ ᴄᴏᴠᴇʀᴇᴅ.
+    </p>
+    <p align="left"> ᴡʜᴀᴛ ꜱᴇᴛꜱ ɪᴘᴇᴇɪɴꜰᴏ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴏᴛʜᴇʀ ɪᴘ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴏᴏʟꜱ ɪꜱ ɪᴛꜱ ᴠᴇʀꜱᴀᴛɪʟɪᴛʏ. ᴡɪᴛʜ ɪᴛꜱ ᴄᴏᴍᴍᴀɴᴅ-ʟɪɴᴇ ɪɴᴛᴇʀꜰᴀᴄᴇ, ʏᴏᴜ ᴄᴀɴ ᴇᴀꜱɪʟʏ ꜱᴘᴇᴄɪꜰʏ ᴍᴜʟᴛɪᴘʟᴇ ɪᴘ ᴀᴅᴅʀᴇꜱꜱᴇꜱ ᴛᴏ ʙᴇ ꜱᴄᴀɴɴᴇᴅ ᴀᴛ ᴏɴᴄᴇ, ᴍᴀᴋɪɴɢ ɪᴛ ᴘᴇʀꜰᴇᴄᴛ ꜰᴏʀ ɴᴇᴛᴡᴏʀᴋ ᴀᴅᴍɪɴɪꜱᴛʀᴀᴛᴏʀꜱ ᴡʜᴏ ɴᴇᴇᴅ ᴛᴏ ɢᴀᴛʜᴇʀ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ʟᴀʀɢᴇ ɴᴜᴍʙᴇʀꜱ ᴏꜰ ɪᴘ ᴀᴅᴅʀᴇꜱꜱᴇꜱ Qᴜɪᴄᴋʟʏ. ᴀᴅᴅɪᴛɪᴏɴᴀʟʟʏ, ɪᴘᴇᴇɪɴꜰᴏ ᴀʟʟᴏᴡꜱ ʏᴏᴜ ᴛᴏ ᴄʜᴏᴏꜱᴇ ʙᴇᴛᴡᴇᴇɴ ᴛʜʀᴇᴇ ᴅɪꜰꜰᴇʀᴇɴᴛ ᴏᴜᴛᴘᴜᴛ ꜰᴏʀᴍᴀᴛꜱ (ᴛᴇxᴛ, ᴊꜱᴏɴ, ᴏʀ ᴄꜱᴠ), ꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴄᴜꜱᴛᴏᴍɪᴢᴇ ʏᴏᴜʀ ᴏᴜᴛᴘᴜᴛ ᴅᴇᴘᴇɴᴅɪɴɢ ᴏɴ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
+    </p>
+    <p align="left">ʙᴜᴛ  ᴛʜᴀᴛ'ꜱ ɴᴏᴛ ᴀʟʟ -  ɪᴘᴇᴇɪɴꜰᴏ 
+    ᴀʟꜱᴏ     ɪɴᴄʟᴜᴅᴇꜱ          ᴀɴ               ᴏᴘᴛɪᴏɴ
+    ᴛᴏ ꜱᴀᴠᴇ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ᴏꜰ ʏᴏᴜʀ ꜱᴄᴀɴ,  ᴀʟʟᴏᴡɪɴɢ ʏᴏᴜ ᴛᴏ
+    ʀᴇꜰᴇʀ ʙᴀᴄᴋ ᴛᴏ ᴛʜᴇᴍ ʟᴀᴛᴇʀ   ɪꜰ ɴᴇᴇᴅᴇᴅ. ᴛʜɪꜱ ꜰᴇᴀᴛᴜʀᴇ
+    ɪꜱ ᴘᴀʀᴛɪᴄᴜʟᴀʀʟʏ  ᴜꜱᴇꜰᴜʟ ɪꜰ ʏᴏᴜ'ʀᴇ ᴘᴇʀꜰᴏʀᴍɪɴɢ ꜱᴄᴀɴꜱ
+    ᴏɴ ᴀ ʀᴇɢᴜʟᴀʀ  ʙᴀꜱɪꜱ ᴀɴᴅ ɴᴇᴇᴅ ᴛᴏ ᴋᴇᴇᴘ ᴛʀᴀᴄᴋ ᴏꜰ ʏᴏᴜʀ
+    ꜰɪɴᴅɪɴɢꜱ. </p>
+    <p align="left"> ᴏᴠᴇʀᴀʟʟ, ɪᴘᴇᴇɪɴꜰᴏ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀɴᴅ ʀᴇʟɪᴀʙʟᴇ ɪᴘ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴏᴏʟ ᴛʜᴀᴛ ɪꜱ ᴇᴀꜱʏ ᴛᴏ ᴜꜱᴇ ᴀɴᴅ ᴘᴀᴄᴋᴇᴅ ᴡɪᴛʜ ꜰᴇᴀᴛᴜʀᴇꜱ. ᴡʜᴇᴛʜᴇʀ ʏᴏᴜ'ʀᴇ ᴀ ꜱᴇᴀꜱᴏɴᴇᴅ ɪᴛ ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴏʀ ɴᴇᴡ ᴛᴏ ᴛʜᴇ ꜰɪᴇʟᴅ, ɪᴘᴇᴇɪɴꜰᴏ ɪꜱ ᴀɴ ᴇꜱꜱᴇɴᴛɪᴀʟ ᴛᴏᴏʟ ꜰᴏʀ ᴀɴʏᴏɴᴇ ᴡʜᴏ ɴᴇᴇᴅꜱ ᴛᴏ ɢᴀᴛʜᴇʀ ᴅᴀᴛᴀ ᴀʙᴏᴜᴛ ɪᴘ ᴀᴅᴅʀᴇꜱꜱᴇꜱ. </p>
+
+</h1>
 <br><br>
 
+<p align="center">
+    <h1 align="center"> ▆ ▅ Installation ▅ ▆ </h1>
+</p>
 
-**▍◆** IpeeInfo  is a   top-of-the-line IP  information  tool
-   that boasts a   wide range  of features to help you
-   gain insight into any IP address.  Whether   you're
-   looking for the  geolocation of a  specific IP, its
-   latitude   and longitude   coordinates, or the city
-   it's based in, iPeeInfo has got you covered.
-   
-<br>
 
-**▍◆** What sets  iPeeInfo  apart from  other IP  information
-    tools  is its  versatility. With  its command-line
-    interface, you  can  easily   specify  multiple IP
-    addresses to be scanned at once, making it perfect
-    for  network  administrators   who need  to gather
-    information about   large numbers of IP  addresses
-    quickly.  Additionally,  iPeeInfo  allows   you to
-    choose  between three  different   output  formats
-    (text, JSON, or CSV),  so you  can customize  your
-    output depending on your needs.
-    
-<br>
-
-**▍◆** But  that's not all - iPeeInfo also includes an option
-    to save the results of your scan,  allowing you to
-    refer back to them later   if needed. This feature
-    is particularly  useful if you're performing scans
-    on a regular  basis and need to keep track of your
-    findings.
-
-<br>
-
-**▍◆** Overall, iPeeInfo   is  a  powerful   and  reliable IP
-    information tool  that is easy   to use and packed
-    with    features. Whether   you're a   seasoned IT
-    professional   or new to the field, iPeeInfo is an
-    essential tool for anyone who needs to gather data
-    about IP addresses.
