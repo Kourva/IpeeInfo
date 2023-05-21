@@ -1,6 +1,6 @@
 <h4 align="center">
     <h1 align="center"> ▅ ▆ IpeeInfo ▆ ▅ </h1>
-    <p align="center"><b>Powerful Ip Info Script made in Python with both command-line argument or in-app input</b></p>
+    <p align="left"><b>Powerful Ip Info Script made in Python with both command-line argument or in-app input</b></p>
     <p align="left">ɪᴘᴇᴇɪɴꜰᴏ ɪꜱ ᴀ ᴛᴏᴘ-ᴏꜰ-ᴛʜᴇ-ʟɪɴᴇ  ɪᴘ 
     ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ       ᴛᴏᴏʟ ᴛʜᴀᴛ ʙᴏᴀꜱᴛꜱ ᴀ ᴡɪᴅᴇ ʀᴀɴɢᴇ  ᴏꜰ 
     ꜰᴇᴀᴛᴜʀᴇꜱ     ᴛᴏ          ʜᴇʟᴘ                   ʏᴏᴜ
@@ -24,7 +24,8 @@
 <br><br>
 
 <p align="center">
-    <h1 align="center"> ▆ ▅ Installation ▅ ▆ </h1>
+    <h1 align="center"> ▅ ▆ Installation ▆ ▅ </h1>
+    <p align="left"><b>Follow these steps to install IpeeInfo in your machine</b></p>
 </p>
 
 + ⒈ Clone the repository
