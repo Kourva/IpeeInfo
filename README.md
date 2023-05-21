@@ -1,6 +1,6 @@
 <h4 align="center">
-    <h1 align="center"> ▅ ▆ IpeeInfo ▆ ▅ </h1>
-    <p align="left"><b>Powerful Ip Info Script made in Python with both command-line argument or in-app input</b></p>
+    <h1 align="left">┣ IpeeInfo </h1>
+    <p align="left"><b>◉ Powerful Ip Info Script made in Python with both command-line argument or in-app input.</b></p>
     <p align="left">ɪᴘᴇᴇɪɴꜰᴏ ɪꜱ ᴀ ᴛᴏᴘ-ᴏꜰ-ᴛʜᴇ-ʟɪɴᴇ  ɪᴘ 
     ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ       ᴛᴏᴏʟ ᴛʜᴀᴛ ʙᴏᴀꜱᴛꜱ ᴀ ᴡɪᴅᴇ ʀᴀɴɢᴇ  ᴏꜰ 
     ꜰᴇᴀᴛᴜʀᴇꜱ     ᴛᴏ          ʜᴇʟᴘ                   ʏᴏᴜ
@@ -24,8 +24,8 @@
 <br><br>
 
 <p align="center">
-    <h1 align="center"> ▅ ▆ Installation ▆ ▅ </h1>
-    <p align="left"><b>Follow these steps to install IpeeInfo in your machine</b></p>
+    <h1 align="left">┣ Install </h1>
+    <p align="left"><b>◉ Follow these steps to install IpeeInfo in your machine.</b></p>
 </p>
 
 + ⒈ Clone the repository
@@ -47,11 +47,12 @@ ipeeinfo [-h / --help]
 ```
 <br><br>
 
-<p align="center">
-    <h1 align="center"> ▆ ▅ Uninstall ▅ ▆ </h1>
-</p>
+<h4 align="center">
+    <h1 align="left"> ┣ Uninstall </h1>
+    <p align="left"><b>◉ You can also uninstall the IpeeInfo using one of installers with --uninstall argument.</b></p>
+</h4>
 
-You can also **uninstall** the IpeeInfo using one of installers with `--uninstall` argument.
+
 + ⒈ Using python installer
 ```bash
 sudo python installer.py --uninstall
