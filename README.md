@@ -31,8 +31,17 @@
 ```bash
 git clone https://github.com/Kourva/IpeeInfo
 ```
-+ ⒉ Navigate to IpeeInfo firectory
++ ⒉ Navigate to IpeeInfo directory
 ```bash
 cd IpeeInfo
+```
++ ⒊ Install IpeeInfo using python or bash
+```bash
+sudo python installer.py
+sudo bash installer.sh
+```
++ ⒋ Get usage for IpeeInfo
+```bash
+ipeeinfo [-h / --help]
 ```
 
