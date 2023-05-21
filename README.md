@@ -44,4 +44,18 @@ sudo bash installer.sh
 ```bash
 ipeeinfo [-h / --help]
 ```
+<br><br>
 
+<p align="center">
+    <h1 align="center"> ▆ ▅ Uninstall ▅ ▆ </h1>
+</p>
+
+You can also **uninstall** the IpeeInfo using one of installers with `--uninstall` argument.
++ ⒈ Using python installer
+```bash
+sudo python installer.py --uninstall
+```
++ ⒉ Using bash installer
+```
+sudo bash installer.sh --uninstall
+```
