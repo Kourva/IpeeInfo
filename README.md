@@ -1,4 +1,4 @@
-<h1 align="center">
+<h4 align="center">
     <h1 align="center"> ▅ ▆ IpeeInfo ▆ ▅ </h1>
     <p align="center"><b>Powerful Ip Info Script made in Python with both command-line argument or in-app input</b></p>
     <p align="left">ɪᴘᴇᴇɪɴꜰᴏ ɪꜱ ᴀ ᴛᴏᴘ-ᴏꜰ-ᴛʜᴇ-ʟɪɴᴇ  ɪᴘ 
@@ -20,7 +20,7 @@
     ꜰɪɴᴅɪɴɢꜱ. </p>
     <p align="left"> ᴏᴠᴇʀᴀʟʟ, ɪᴘᴇᴇɪɴꜰᴏ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀɴᴅ ʀᴇʟɪᴀʙʟᴇ ɪᴘ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴏᴏʟ ᴛʜᴀᴛ ɪꜱ ᴇᴀꜱʏ ᴛᴏ ᴜꜱᴇ ᴀɴᴅ ᴘᴀᴄᴋᴇᴅ ᴡɪᴛʜ ꜰᴇᴀᴛᴜʀᴇꜱ. ᴡʜᴇᴛʜᴇʀ ʏᴏᴜ'ʀᴇ ᴀ ꜱᴇᴀꜱᴏɴᴇᴅ ɪᴛ ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴏʀ ɴᴇᴡ ᴛᴏ ᴛʜᴇ ꜰɪᴇʟᴅ, ɪᴘᴇᴇɪɴꜰᴏ ɪꜱ ᴀɴ ᴇꜱꜱᴇɴᴛɪᴀʟ ᴛᴏᴏʟ ꜰᴏʀ ᴀɴʏᴏɴᴇ ᴡʜᴏ ɴᴇᴇᴅꜱ ᴛᴏ ɢᴀᴛʜᴇʀ ᴅᴀᴛᴀ ᴀʙᴏᴜᴛ ɪᴘ ᴀᴅᴅʀᴇꜱꜱᴇꜱ. </p>
 
-</h1>
+</h4>
 <br><br>
 
 <p align="center">
