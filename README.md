@@ -61,3 +61,39 @@ sudo python installer.py --uninstall
 ```
 sudo bash installer.sh --uninstall
 ```
+
+<br><br>
+
+<h4 align="center">
+    <h1 align="left"> ┣ Usage </h1>
+    <p align="left"><b>◉ Some examples for IpeeInfo usage.</b></p>
+</h4>
+
+```bash
+usage: ipeeinfo.py [-h] [-f {text,json,csv}] [-o] [ip ...]
+
+Powerful Ip Info Script made in Python
+
+positional arguments:
+  ip                  iP address(es) to lookup
+
+options:
+  -h, --help          show this help message and exit
+  -f {text,json,csv}  output format (text or json or csv)
+  -o                  save result(s) of scan
+
+```
+
++ ⒈ Using Multiple Ip addresses
+```bash
+ipeeinfo 1.1.1.1 2.2.2.2 3.3.3.3
+```
++ ⒉ Using Csv Format or Output
+```bash
+ipeeinfo -f csv 1.1.1.1 2.2.2.2
+```
++ ⒊ Using Save option for result
+```bash
+ipeeinfo -f json -o 1.2.3.4 11.22.33.44
+```
+##### Note that result will save into curent working directory 
