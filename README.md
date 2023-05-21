@@ -27,4 +27,12 @@
     <h1 align="center"> ▆ ▅ Installation ▅ ▆ </h1>
 </p>
 
++ ⒈ Clone the repository
+```bash
+git clone https://github.com/Kourva/IpeeInfo
+```
++ ⒉ Navigate to IpeeInfo firectory
+```bash
+cd IpeeInfo
+```
 
