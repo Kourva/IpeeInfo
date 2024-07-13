@@ -30,7 +30,7 @@
 
 + ⒈ Clone the repository
 ```bash
-git clone https://github.com/Kourva/IpeeInfo
+git clone https://github.com/kozyol/IpeeInfo
 ```
 + ⒉ Navigate to IpeeInfo directory
 ```bash
