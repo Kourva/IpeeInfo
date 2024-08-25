@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Author: kozyol
-# Source: https://github.com/kozyol/IpeeInfo
+# Author: Kourva
+# Source: https://github.com/Kourva/IpeeInfo
 
 # IpeeInfo  is a   top-of-the-line IP  information tool
 #   that boasts a   wide range  of features to help you
